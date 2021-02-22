@@ -8,6 +8,6 @@ Abstract: GPJSON which derived from GeoJSON is only for encoding geophysical sen
 Note: Geoarch is a geoscience source processing platform focusing on Source-flow diagram schemes.
 
 
-Refer to GPJSON Format Specification.PDF file in source code files!!
+(Please refer to GPJSON Format Specification.PDF file in source code files!!)
 
 
